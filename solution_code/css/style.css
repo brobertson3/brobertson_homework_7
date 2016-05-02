@@ -132,10 +132,10 @@ header {
 .la {
   background-image: url(../images/la.jpg)
 }
-.austin {
+.atx {
   background-image: url(../images/austin.jpg)
 }
-.sydney {
+.syd {
   background-image: url(../images/sydney.jpg)
 }
 
@@ -143,6 +143,9 @@ header {
 /* ADDITIONAL STYLES
 /*******************************************/
 
-
-
+.prompt {
+  color: red;
+  margin: 20px auto;
+  font-size: 20px;
+}
 
